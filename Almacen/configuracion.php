@@ -1,7 +1,7 @@
 <?php
 
 $servidor = "localhost";
-$bbdd = 'evau';
+$bbdd = 'usuarioALmacen';
 $usuario_mysql = 'root';
 $clave_mysql = '';
 
