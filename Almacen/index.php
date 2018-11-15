@@ -12,9 +12,11 @@ and open the template in the editor.
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
          <link href="css/miCss.css" rel="stylesheet" type="text/css"/>
     </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
+    <body style="background-color: #fffff">
+        <div id="principal" class="">
+
+            
+        </div>
+      
     </body>
 </html>
